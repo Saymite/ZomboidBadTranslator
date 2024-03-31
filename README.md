@@ -1,5 +1,7 @@
 # Badly Translated Zomboid Mod Generator
 
+![Badly Translated Zomboid Mod Generato](https://repository-images.githubusercontent.com/780103043/734a27c2-0c25-4388-a4d6-8a04cc5613a1)
+
 Welcome to the Badly Translated Zomboid Mod Generator!
 
 This is the code I used to create a Badly Translated mod for a video and the Project Zomboid Steam Workshop.

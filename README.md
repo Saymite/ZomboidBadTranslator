@@ -8,6 +8,8 @@ This is the code I used to create a Badly Translated mod for a video and the Pro
 
 **WARNING: RUNNING THIS WILL USE A BIG AMOUNT OF YOUR GOOGLE TRANSLATOR API CREDITS. THIS WAS ONLY CODED THIS WAY SINCE I HAD A BIG AMOUNT OF FREE CREDITS. PLEASE USE WITH CAUTION.**
 
+Watch a demonstration here [I Survived a Badly Translated Zomboid Tutorial](https://youtu.be/5uWOGkjhYsc)
+
 ## Features
 
 - **Badly Translated Text**: Experience the game with hilariously mistranslated text that adds an extra layer of challenge and fun.
